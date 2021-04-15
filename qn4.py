@@ -7,4 +7,4 @@ if num_2>num_1<num_3:
 elif num1>num_2<num_3:
     print(f"{num_2} is the smallest")
 else:
-    print(f"{num_3} is the smallest")
+    print(f"{num_3}  the smallest")
